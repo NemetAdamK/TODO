@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "notes-ec22d",
+    "Staging": "notes-ec22d"
+  },
+  "targets": {},
+  "etags": {}
+}

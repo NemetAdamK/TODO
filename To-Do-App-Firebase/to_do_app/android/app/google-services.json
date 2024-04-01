@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "594053803512",
+    "firebase_url": "https://notes-ec22d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "notes-ec22d",
+    "storage_bucket": "notes-ec22d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594053803512:android:48ff6634627dbddc217a0d",
+        "android_client_info": {
+          "package_name": "com.example.to_do_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5E28wFkmhman_dwm3RWiUYwj4TEY7g_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
